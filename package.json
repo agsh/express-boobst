@@ -1,7 +1,7 @@
 {
   "name": "express-boobst",
-  "description": "boobst (Caché DB) session store for connect",
-  "version": "0.0.1",
+  "description": "boobst (Caché DB) session store for express-session",
+  "version": "0.0.2",
   "author": "Andrew D.Laptev <a.d.laptev@gmail.com>",
   "dependencies": {
     "boobst": ">=0.8.1",
