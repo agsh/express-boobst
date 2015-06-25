@@ -14,5 +14,13 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/agsh/connect-boobst.git"
-  }
+  },
+  "keywords": [
+    "express",
+    "session",
+    "store",
+    "intersystems",
+    "cache'",
+    "mumps"
+  ]
 }
